@@ -1,7 +1,6 @@
 from tkinter import StringVar, Button, END
 import string
 from evaluate import EvaluateExpression
-from tkinter_time_complexity import random_expression_creation
 class TkinterButtonPlacement:
     def __init__(self, tk, entry):
         '''
