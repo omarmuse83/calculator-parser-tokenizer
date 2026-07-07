@@ -36,7 +36,7 @@ stripped telemetry: no data logs/usage statistics will be sent to external serve
 
 ## License
 
-This parser & tokenizer calculator is published under the ![MIT License](LICENSE.md).
+This parser & tokenizer calculator is published under the ![MIT License](https://mit-license.org/).
 
 ## Final remarks
 
