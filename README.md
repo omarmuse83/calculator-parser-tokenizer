@@ -40,34 +40,16 @@ This parser & tokenizer calculator is published under the [MIT License](https://
 
 ## Final remarks
 
-This custom parser & tokenizer project took me 7-9 weeks to build, and my purpose in building this project is to avoid future
-beginners from using eval() and exec() when building similar calculator projects. Funnily enough, I was so **close** to using
-eval() in my project, but I knew that would be catastrophic to the security of the calculator.
+This custom parser & tokenizer project took me 7-9 weeks to build, and my purpose in building this project is to avoid future beginners from using eval() and exec() when building similar calculator projects. Funnily enough, I was so **close** to using eval() in my project, but I knew that would be catastrophic to the security of the calculator.
 
-It would be bad news when someone with bad intentions could type dangerous queries and delete all files from the host's computer.
-Before I knew about the security risks, I personally asked DeepSeek for projects that would challenge me toward the
-end of the 2026 spring semester in my university's CS1 class. DeepSeek challenged me to create a calculator for a fake bookstore
-client for "Maggie Chen" who needed a reliable calculator for offline use when dangerous weather came. I thought reliable meant
-a calculator that doesn't include complex operations like sin, cos or tan. However: I was fooled by the difference the AI thought
-it took to complete and how long it took me to understand how Tkinter worked.
+It would be bad news when someone with bad intentions could type dangerous queries and delete all files from the host's computer. Before I knew about the security risks, I personally asked DeepSeek to give mr a project requirement prompt involving a calculator GUI toward the tail end of the 2026 spring semester in my university's CS1 class. DeepSeek challenged me to create a calculator for a fake bookstore client for "Maggie Chen" who needed a reliable calculator for offline use when dangerous weather came. I thought reliable meant a calculator that doesn't include complex operations like sin, cos or tan. However: I was fooled by the difference the AI thought it took to complete and how long it took me to understand how Tkinter worked.
 
-At the time, I never used Tkinter in my entire life. But: instead of watching hours of YouTube tutorials, I knew that the best ROI
-was going to come through reading Python documentation and not using artificial intelligence as a crutch to understand syntax for me.
-I know syntax is quickly becoming a commodity, but the ability to think and decipher wasn't going to be commoditized anytime soon.
+At the time, I never used Tkinter in my entire life. But: instead of watching hours of YouTube tutorials, I knew that the best ROI was going to come through reading Python documentation and not using artificial intelligence as a crutch to understand syntax for me. I know syntax is quickly becoming a commodity, but the ability to think and decipher wasn't going to be commoditized anytime soon.
 
-At that point: I knew that relying on quick fixes was going to make me a proficient programmer in my stage of learning. So: I made
-a quick detour and learning about the Pratt parsing and Shunting yard algorithms. These algorithms looked complex to me at the time,
-so I volunteered to create my own algorithm for parsing and tokenizing expressions to understand how these low level and hard to read
-structures actually worked under the hood.
+At that point: I knew that relying on quick fixes wasn't going to make me a proficient programmer in my stage of learning. So: I made a quick detour and learning about the Pratt parsing and Shunting yard algorithms. These algorithms looked complex to me at the time, so I attempted to create my own algorithm for parsing and tokenizing expressions to understand how these low level and hard to read structures actually worked under the hood.
 
-After 7-9 grueling weeks, I can finally say that the project is mostly finished, and I will invite anyone who stumbles on the project
-to submit pull requests or issues if you see any obvious flaws with the calculator.
+After 7-9 grueling weeks, I can finally say that the project is mostly finished, and I will invite anyone who stumbles on the project to submit pull requests or issues if you see any obvious flaws with the calculator on my GitHub repository 
 
 Thank you sincerely,
 
-Omar
-
-   
-
-
-
+close
