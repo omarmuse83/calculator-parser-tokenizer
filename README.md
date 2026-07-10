@@ -48,8 +48,8 @@ At the time, I never used Tkinter in my entire life. But: instead of watching ho
 
 At that point: I knew that relying on quick fixes wasn't going to make me a proficient programmer in my stage of learning. So: I made a quick detour and learning about the Pratt parsing and Shunting yard algorithms. These algorithms looked complex to me at the time, so I attempted to create my own algorithm for parsing and tokenizing expressions to understand how these low level and hard to read structures actually worked under the hood.
 
-After 7-9 grueling weeks, I can finally say that the project is mostly finished, and I will invite anyone who stumbles on the project to submit pull requests or issues if you see any obvious flaws with the calculator on my GitHub repository 
+After 7-9 grueling weeks, I can finally say that the project is mostly finished, and I will invite anyone who stumbles on the project to submit pull requests or issues if you see any obvious flaws with the calculator on my GitHub repository.
 
 Thank you sincerely,
 
-close
+Omar
